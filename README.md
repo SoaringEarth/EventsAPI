@@ -1,5 +1,7 @@
 # EventsAPI
 
+
+/mockEvents.json
 This API contains a list of 100 event objects, each with unique details, structured as follows:
 
 - **ID**: A unique identifier for each event.
