@@ -6,7 +6,7 @@
     "location": "North James, Bangladesh",
     "description": "Engage in creative sessions to improve design thinking skills.",
     "image": "https://via.placeholder.com/350x200",
-    "price": "\u00a340",
+    "price": 40,
     "category": "Art & Design"
   },
   {
@@ -16,7 +16,7 @@
     "location": "Ramseyhaven, Estonia",
     "description": "Engage in creative sessions to improve design thinking skills.",
     "image": "https://via.placeholder.com/350x200",
-    "price": "\u00a3Free",
+    "price": 0,
     "category": "Art & Design"
   },
   {
@@ -26,7 +26,7 @@
     "location": "Nathanmouth, Slovakia (Slovak Republic)",
     "description": "See stunning graphic design works from top professionals.",
     "image": "https://via.placeholder.com/350x200",
-    "price": "\u00a311",
+    "price": 11,
     "category": "Art & Design"
   },
   {
@@ -36,7 +36,7 @@
     "location": "Lucashaven, Sri Lanka",
     "description": "Learn about the intersection of fashion and technology.",
     "image": "https://via.placeholder.com/350x200",
-    "price": "\u00a3Free",
+    "price": 0,
     "category": "Fashion"
   },
   {
@@ -46,7 +46,7 @@
     "location": "New Paulfurt, Anguilla",
     "description": "Experience electrifying electronic music performances.",
     "image": "https://via.placeholder.com/350x200",
-    "price": "\u00a355",
+    "price": 55,
     "category": "Music"
   },
   {
@@ -56,7 +56,7 @@
     "location": "Evansmouth, New Caledonia",
     "description": "A glamorous evening featuring haute couture designs.",
     "image": "https://via.placeholder.com/350x200",
-    "price": "\u00a362",
+    "price": 62,
     "category": "Fashion"
   },
   {
@@ -66,7 +66,7 @@
     "location": "Mclaughlinton, South Georgia and the South Sandwich Islands",
     "description": "Push your limits in this challenging marathon event.",
     "image": "https://via.placeholder.com/350x200",
-    "price": "\u00a3Free",
+    "price": 0,
     "category": "Sports"
   },
   {
@@ -76,7 +76,7 @@
     "location": "Ramosborough, Syrian Arab Republic",
     "description": "An evening filled with classical music compositions.",
     "image": "https://via.placeholder.com/350x200",
-    "price": "\u00a3Free",
+    "price": 0,
     "category": "Music"
   },
   {
@@ -86,7 +86,7 @@
     "location": "North Michaelfurt, Chile",
     "description": "Push your limits in this challenging marathon event.",
     "image": "https://via.placeholder.com/350x200",
-    "price": "\u00a3Free",
+    "price": 0,
     "category": "Sports"
   },
   {
@@ -96,7 +96,7 @@
     "location": "Port Mary, Yemen",
     "description": "Sample dishes from a variety of international cuisines.",
     "image": "https://via.placeholder.com/350x200",
-    "price": "\u00a315",
+    "price": 15,
     "category": "Food & Drink"
   },
   {
@@ -106,7 +106,7 @@
     "location": "Brownville, Guatemala",
     "description": "Admire sculptures from renowned and upcoming artists alike.",
     "image": "https://via.placeholder.com/350x200",
-    "price": "\u00a3Free",
+    "price": 0,
     "category": "Art & Design"
   },
   {
@@ -116,7 +116,7 @@
     "location": "North Jennifer, Malta",
     "description": "A glamorous evening featuring haute couture designs.",
     "image": "https://via.placeholder.com/350x200",
-    "price": "\u00a339",
+    "price": 39,
     "category": "Fashion"
   },
   {
@@ -126,7 +126,7 @@
     "location": "East Isaac, Belgium",
     "description": "Indulge in premium wine selections with expert sommeliers.",
     "image": "https://via.placeholder.com/350x200",
-    "price": "\u00a379",
+    "price": 79,
     "category": "Food & Drink"
   },
   {
@@ -136,7 +136,7 @@
     "location": "East Stacey, Ethiopia",
     "description": "Understand the role of blockchain in transforming industries.",
     "image": "https://via.placeholder.com/350x200",
-    "price": "\u00a3Free",
+    "price": 0,
     "category": "Technology"
   },
   {
@@ -146,7 +146,7 @@
     "location": "Webbhaven, Dominica",
     "description": "Discover the trends shaping the future of software development.",
     "image": "https://via.placeholder.com/350x200",
-    "price": "\u00a379",
+    "price": 79,
     "category": "Technology"
   },
   {
@@ -156,7 +156,7 @@
     "location": "Lake Andre, Nicaragua",
     "description": "Enjoy live performances from jazz and blues legends.",
     "image": "https://via.placeholder.com/350x200",
-    "price": "\u00a372",
+    "price": 72,
     "category": "Music"
   },
   {
@@ -166,7 +166,7 @@
     "location": "North Petertown, Paraguay",
     "description": "See the latest collections on the runway by top designers.",
     "image": "https://via.placeholder.com/350x200",
-    "price": "\u00a379",
+    "price": 79,
     "category": "Fashion"
   },
   {
@@ -176,7 +176,7 @@
     "location": "Martinezborough, Angola",
     "description": "Experience electrifying electronic music performances.",
     "image": "https://via.placeholder.com/350x200",
-    "price": "\u00a3Free",
+    "price": 0,
     "category": "Music"
   },
   {
@@ -186,7 +186,7 @@
     "location": "North Scott, Seychelles",
     "description": "Rock out with bands from around the world.",
     "image": "https://via.placeholder.com/350x200",
-    "price": "\u00a3Free",
+    "price": 0,
     "category": "Music"
   },
   {
@@ -196,7 +196,7 @@
     "location": "Howellmouth, Mexico",
     "description": "A showcase of modern masterpieces from leading contemporary artists.",
     "image": "https://via.placeholder.com/350x200",
-    "price": "\u00a3Free",
+    "price": 0,
     "category": "Art & Design"
   },
   {
@@ -206,7 +206,7 @@
     "location": "Jeremystad, Bolivia",
     "description": "Celebrate art and culture in a vibrant, immersive festival.",
     "image": "https://via.placeholder.com/350x200",
-    "price": "\u00a334",
+    "price": 34,
     "category": "Art & Design"
   },
   {
@@ -216,7 +216,7 @@
     "location": "West Elizabethhaven, Mali",
     "description": "Engage in creative sessions to improve design thinking skills.",
     "image": "https://via.placeholder.com/350x200",
-    "price": "\u00a396",
+    "price": 96,
     "category": "Art & Design"
   },
   {
@@ -226,7 +226,7 @@
     "location": "Clarkburgh, Guinea",
     "description": "Experience the world of extreme sports and its athletes.",
     "image": "https://via.placeholder.com/350x200",
-    "price": "\u00a371",
+    "price": 71,
     "category": "Sports"
   },
   {
@@ -236,7 +236,7 @@
     "location": "Lake Caitlin, Botswana",
     "description": "Admire sculptures from renowned and upcoming artists alike.",
     "image": "https://via.placeholder.com/350x200",
-    "price": "\u00a3Free",
+    "price": 0,
     "category": "Art & Design"
   },
   {
@@ -246,7 +246,7 @@
     "location": "Nancyport, Grenada",
     "description": "Rock out with bands from around the world.",
     "image": "https://via.placeholder.com/350x200",
-    "price": "\u00a375",
+    "price": 75,
     "category": "Music"
   },
   {
@@ -256,7 +256,7 @@
     "location": "West Eileen, Mali",
     "description": "Discover music styles from different cultures at this global summit.",
     "image": "https://via.placeholder.com/350x200",
-    "price": "\u00a319",
+    "price": 19,
     "category": "Music"
   },
   {
@@ -266,7 +266,7 @@
     "location": "Port Russellland, Switzerland",
     "description": "Experience the world of extreme sports and its athletes.",
     "image": "https://via.placeholder.com/350x200",
-    "price": "\u00a362",
+    "price": 62,
     "category": "Sports"
   },
   {
@@ -276,7 +276,7 @@
     "location": "East Katherine, Philippines",
     "description": "An evening filled with classical music compositions.",
     "image": "https://via.placeholder.com/350x200",
-    "price": "\u00a3Free",
+    "price": 0,
     "category": "Music"
   },
   {
@@ -286,7 +286,7 @@
     "location": "Jonesbury, Mali",
     "description": "Experience the world of extreme sports and its athletes.",
     "image": "https://via.placeholder.com/350x200",
-    "price": "\u00a3Free",
+    "price": 0,
     "category": "Sports"
   },
   {
@@ -296,7 +296,7 @@
     "location": "Jonathanview, Seychelles",
     "description": "Rock out with bands from around the world.",
     "image": "https://via.placeholder.com/350x200",
-    "price": "\u00a3Free",
+    "price": 0,
     "category": "Music"
   },
   {
@@ -306,7 +306,7 @@
     "location": "Smithmouth, Gibraltar",
     "description": "Discover the trends shaping the future of software development.",
     "image": "https://via.placeholder.com/350x200",
-    "price": "\u00a3Free",
+    "price": 0,
     "category": "Technology"
   },
   {
@@ -316,7 +316,7 @@
     "location": "Bateschester, Congo",
     "description": "Discover music styles from different cultures at this global summit.",
     "image": "https://via.placeholder.com/350x200",
-    "price": "\u00a311",
+    "price": 11,
     "category": "Music"
   },
   {
@@ -326,7 +326,7 @@
     "location": "Robbinsport, El Salvador",
     "description": "Experience the world of extreme sports and its athletes.",
     "image": "https://via.placeholder.com/350x200",
-    "price": "\u00a3Free",
+    "price": 0,
     "category": "Sports"
   },
   {
@@ -336,7 +336,7 @@
     "location": "Dickersonfort, Saint Barthelemy",
     "description": "Explore the latest breakthroughs in technology with industry leaders.",
     "image": "https://via.placeholder.com/350x200",
-    "price": "\u00a3Free",
+    "price": 0,
     "category": "Technology"
   },
   {
@@ -346,7 +346,7 @@
     "location": "Port Roberto, American Samoa",
     "description": "Celebrate art and culture in a vibrant, immersive festival.",
     "image": "https://via.placeholder.com/350x200",
-    "price": "\u00a377",
+    "price": 77,
     "category": "Art & Design"
   },
   {
@@ -356,7 +356,7 @@
     "location": "Tracyshire, Tajikistan",
     "description": "Push your limits in this challenging marathon event.",
     "image": "https://via.placeholder.com/350x200",
-    "price": "\u00a3Free",
+    "price": 0,
     "category": "Sports"
   },
   {
@@ -366,7 +366,7 @@
     "location": "North Brettside, Norfolk Island",
     "description": "Admire sculptures from renowned and upcoming artists alike.",
     "image": "https://via.placeholder.com/350x200",
-    "price": "\u00a340",
+    "price": 40,
     "category": "Art & Design"
   },
   {
@@ -376,7 +376,7 @@
     "location": "Stoutside, American Samoa",
     "description": "Experience the world of extreme sports and its athletes.",
     "image": "https://via.placeholder.com/350x200",
-    "price": "\u00a372",
+    "price": 72,
     "category": "Sports"
   },
   {
@@ -386,7 +386,7 @@
     "location": "Curtisbury, Equatorial Guinea",
     "description": "Celebrate art and culture in a vibrant, immersive festival.",
     "image": "https://via.placeholder.com/350x200",
-    "price": "\u00a368",
+    "price": 68,
     "category": "Art & Design"
   },
   {
@@ -396,7 +396,7 @@
     "location": "Underwoodshire, Gambia",
     "description": "Admire sculptures from renowned and upcoming artists alike.",
     "image": "https://via.placeholder.com/350x200",
-    "price": "\u00a346",
+    "price": 46,
     "category": "Art & Design"
   },
   {
@@ -406,7 +406,7 @@
     "location": "Thomasside, United States Minor Outlying Islands",
     "description": "Taste gourmet creations by top chefs from around the world.",
     "image": "https://via.placeholder.com/350x200",
-    "price": "\u00a315",
+    "price": 15,
     "category": "Food & Drink"
   },
   {
@@ -416,7 +416,7 @@
     "location": "West Kenneth, Gambia",
     "description": "Savor craft beers and BBQ at this lively event.",
     "image": "https://via.placeholder.com/350x200",
-    "price": "\u00a3Free",
+    "price": 0,
     "category": "Food & Drink"
   },
   {
@@ -426,7 +426,7 @@
     "location": "North Lisastad, Czech Republic",
     "description": "Sample dishes from a variety of international cuisines.",
     "image": "https://via.placeholder.com/350x200",
-    "price": "\u00a338",
+    "price": 38,
     "category": "Food & Drink"
   },
   {
@@ -436,7 +436,7 @@
     "location": "Bentleyborough, Turks and Caicos Islands",
     "description": "Admire sculptures from renowned and upcoming artists alike.",
     "image": "https://via.placeholder.com/350x200",
-    "price": "\u00a388",
+    "price": 88,
     "category": "Art & Design"
   },
   {
@@ -446,7 +446,7 @@
     "location": "Williamsbury, Angola",
     "description": "Learn about the newest challenges and solutions in cybersecurity.",
     "image": "https://via.placeholder.com/350x200",
-    "price": "\u00a351",
+    "price": 51,
     "category": "Technology"
   },
   {
@@ -456,7 +456,7 @@
     "location": "Port Brookechester, Mayotte",
     "description": "Join outdoor enthusiasts for thrilling activities.",
     "image": "https://via.placeholder.com/350x200",
-    "price": "\u00a3Free",
+    "price": 0,
     "category": "Sports"
   },
   {
@@ -466,7 +466,7 @@
     "location": "Lake Morganbury, Macedonia",
     "description": "Discover music styles from different cultures at this global summit.",
     "image": "https://via.placeholder.com/350x200",
-    "price": "\u00a345",
+    "price": 45,
     "category": "Music"
   },
   {
@@ -476,7 +476,7 @@
     "location": "North Angelabury, Vanuatu",
     "description": "See the latest collections on the runway by top designers.",
     "image": "https://via.placeholder.com/350x200",
-    "price": "\u00a335",
+    "price": 35,
     "category": "Fashion"
   },
   {
@@ -486,7 +486,7 @@
     "location": "Maryhaven, Holy See (Vatican City State)",
     "description": "See stunning graphic design works from top professionals.",
     "image": "https://via.placeholder.com/350x200",
-    "price": "\u00a361",
+    "price": 61,
     "category": "Art & Design"
   },
   {
@@ -496,7 +496,7 @@
     "location": "Brettborough, Ukraine",
     "description": "Learn about the newest challenges and solutions in cybersecurity.",
     "image": "https://via.placeholder.com/350x200",
-    "price": "\u00a3Free",
+    "price": 0,
     "category": "Technology"
   },
   {
@@ -506,7 +506,7 @@
     "location": "North Wyattmouth, Bangladesh",
     "description": "A glamorous evening featuring haute couture designs.",
     "image": "https://via.placeholder.com/350x200",
-    "price": "\u00a347",
+    "price": 47,
     "category": "Fashion"
   },
   {
@@ -516,7 +516,7 @@
     "location": "East John, Peru",
     "description": "Engage in creative sessions to improve design thinking skills.",
     "image": "https://via.placeholder.com/350x200",
-    "price": "\u00a3Free",
+    "price": 0,
     "category": "Art & Design"
   },
   {
@@ -526,7 +526,7 @@
     "location": "Markside, Estonia",
     "description": "Learn about the newest challenges and solutions in cybersecurity.",
     "image": "https://via.placeholder.com/350x200",
-    "price": "\u00a3Free",
+    "price": 0,
     "category": "Technology"
   },
   {
@@ -536,7 +536,7 @@
     "location": "North Amber, Faroe Islands",
     "description": "See the latest collections on the runway by top designers.",
     "image": "https://via.placeholder.com/350x200",
-    "price": "\u00a3Free",
+    "price": 0,
     "category": "Fashion"
   },
   {
@@ -546,7 +546,7 @@
     "location": "Edwardsshire, Denmark",
     "description": "Experience electrifying electronic music performances.",
     "image": "https://via.placeholder.com/350x200",
-    "price": "\u00a360",
+    "price": 60,
     "category": "Music"
   },
   {
@@ -556,7 +556,7 @@
     "location": "Harrellside, Uganda",
     "description": "Discover cutting-edge streetwear brands and trends.",
     "image": "https://via.placeholder.com/350x200",
-    "price": "\u00a3Free",
+    "price": 0,
     "category": "Fashion"
   },
   {
@@ -566,7 +566,7 @@
     "location": "Hallfort, Monaco",
     "description": "An evening filled with classical music compositions.",
     "image": "https://via.placeholder.com/350x200",
-    "price": "\u00a347",
+    "price": 47,
     "category": "Music"
   },
   {
@@ -576,7 +576,7 @@
     "location": "South Christopher, Mayotte",
     "description": "See stunning graphic design works from top professionals.",
     "image": "https://via.placeholder.com/350x200",
-    "price": "\u00a355",
+    "price": 55,
     "category": "Art & Design"
   },
   {
@@ -586,7 +586,7 @@
     "location": "New Carlosmouth, Cyprus",
     "description": "Experience electrifying electronic music performances.",
     "image": "https://via.placeholder.com/350x200",
-    "price": "\u00a355",
+    "price": 55,
     "category": "Music"
   },
   {
@@ -596,7 +596,7 @@
     "location": "Ronaldchester, Australia",
     "description": "A showcase of modern masterpieces from leading contemporary artists.",
     "image": "https://via.placeholder.com/350x200",
-    "price": "\u00a382",
+    "price": 82,
     "category": "Art & Design"
   },
   {
@@ -606,7 +606,7 @@
     "location": "Lake Brianstad, Lebanon",
     "description": "Understand the role of blockchain in transforming industries.",
     "image": "https://via.placeholder.com/350x200",
-    "price": "\u00a370",
+    "price": 70,
     "category": "Technology"
   },
   {
@@ -616,7 +616,7 @@
     "location": "West Carolyn, Mongolia",
     "description": "Witness teams compete in an intense championship game.",
     "image": "https://via.placeholder.com/350x200",
-    "price": "\u00a3Free",
+    "price": 0,
     "category": "Sports"
   },
   {
@@ -626,7 +626,7 @@
     "location": "Mackburgh, Japan",
     "description": "Understand the role of blockchain in transforming industries.",
     "image": "https://via.placeholder.com/350x200",
-    "price": "\u00a327",
+    "price": 27,
     "category": "Technology"
   },
   {
@@ -636,7 +636,7 @@
     "location": "Jennifertown, Tanzania",
     "description": "Admire sculptures from renowned and upcoming artists alike.",
     "image": "https://via.placeholder.com/350x200",
-    "price": "\u00a3Free",
+    "price": 0,
     "category": "Art & Design"
   },
   {
@@ -646,7 +646,7 @@
     "location": "Port Elizabethshire, Norfolk Island",
     "description": "See the latest collections on the runway by top designers.",
     "image": "https://via.placeholder.com/350x200",
-    "price": "\u00a320",
+    "price": 20,
     "category": "Fashion"
   },
   {
@@ -656,7 +656,7 @@
     "location": "East Ryan, Comoros",
     "description": "Explore delicious vegan options from diverse vendors.",
     "image": "https://via.placeholder.com/350x200",
-    "price": "\u00a3Free",
+    "price": 0,
     "category": "Food & Drink"
   },
   {
@@ -666,7 +666,7 @@
     "location": "Barnesbury, Malawi",
     "description": "Rock out with bands from around the world.",
     "image": "https://via.placeholder.com/350x200",
-    "price": "\u00a394",
+    "price": 94,
     "category": "Music"
   },
   {
@@ -676,7 +676,7 @@
     "location": "Travisport, Senegal",
     "description": "Experience electrifying electronic music performances.",
     "image": "https://via.placeholder.com/350x200",
-    "price": "\u00a3Free",
+    "price": 0,
     "category": "Music"
   },
   {
@@ -686,7 +686,7 @@
     "location": "East Thomasfurt, San Marino",
     "description": "Discover music styles from different cultures at this global summit.",
     "image": "https://via.placeholder.com/350x200",
-    "price": "\u00a3Free",
+    "price": 0,
     "category": "Music"
   },
   {
@@ -696,7 +696,7 @@
     "location": "Morrisonbury, Algeria",
     "description": "Dive into the world of artificial intelligence and machine learning.",
     "image": "https://via.placeholder.com/350x200",
-    "price": "\u00a3Free",
+    "price": 0,
     "category": "Technology"
   },
   {
@@ -706,7 +706,7 @@
     "location": "West Michelle, Peru",
     "description": "A showcase of modern masterpieces from leading contemporary artists.",
     "image": "https://via.placeholder.com/350x200",
-    "price": "\u00a3Free",
+    "price": 0,
     "category": "Art & Design"
   },
   {
@@ -716,7 +716,7 @@
     "location": "Fisherhaven, Austria",
     "description": "Enjoy live performances from jazz and blues legends.",
     "image": "https://via.placeholder.com/350x200",
-    "price": "\u00a381",
+    "price": 81,
     "category": "Music"
   },
   {
@@ -726,7 +726,7 @@
     "location": "Morrowside, Timor-Leste",
     "description": "See stunning graphic design works from top professionals.",
     "image": "https://via.placeholder.com/350x200",
-    "price": "\u00a384",
+    "price": 84,
     "category": "Art & Design"
   },
   {
@@ -736,7 +736,7 @@
     "location": "Snydermouth, Vanuatu",
     "description": "Discover music styles from different cultures at this global summit.",
     "image": "https://via.placeholder.com/350x200",
-    "price": "\u00a3Free",
+    "price": 0,
     "category": "Music"
   },
   {
@@ -746,7 +746,7 @@
     "location": "Bennettfurt, Pakistan",
     "description": "Sample dishes from a variety of international cuisines.",
     "image": "https://via.placeholder.com/350x200",
-    "price": "\u00a362",
+    "price": 62,
     "category": "Food & Drink"
   },
   {
@@ -756,7 +756,7 @@
     "location": "Cooperstad, Russian Federation",
     "description": "A fun and competitive indoor climbing experience.",
     "image": "https://via.placeholder.com/350x200",
-    "price": "\u00a335",
+    "price": 35,
     "category": "Sports"
   },
   {
@@ -766,7 +766,7 @@
     "location": "Smithport, Botswana",
     "description": "Witness teams compete in an intense championship game.",
     "image": "https://via.placeholder.com/350x200",
-    "price": "\u00a3Free",
+    "price": 0,
     "category": "Sports"
   },
   {
@@ -776,7 +776,7 @@
     "location": "Whiteport, United States Virgin Islands",
     "description": "Celebrate eco-friendly and sustainable fashion choices.",
     "image": "https://via.placeholder.com/350x200",
-    "price": "\u00a3Free",
+    "price": 0,
     "category": "Fashion"
   },
   {
@@ -786,7 +786,7 @@
     "location": "Port Mindystad, Saint Lucia",
     "description": "Dive into the world of artificial intelligence and machine learning.",
     "image": "https://via.placeholder.com/350x200",
-    "price": "\u00a341",
+    "price": 41,
     "category": "Technology"
   },
   {
@@ -796,7 +796,7 @@
     "location": "New Nancymouth, Kiribati",
     "description": "Discover the trends shaping the future of software development.",
     "image": "https://via.placeholder.com/350x200",
-    "price": "\u00a381",
+    "price": 81,
     "category": "Technology"
   },
   {
@@ -806,7 +806,7 @@
     "location": "Tonyafurt, Israel",
     "description": "Indulge in premium wine selections with expert sommeliers.",
     "image": "https://via.placeholder.com/350x200",
-    "price": "\u00a392",
+    "price": 92,
     "category": "Food & Drink"
   },
   {
@@ -816,7 +816,7 @@
     "location": "North Breannafort, Finland",
     "description": "Sample dishes from a variety of international cuisines.",
     "image": "https://via.placeholder.com/350x200",
-    "price": "\u00a3Free",
+    "price": 0,
     "category": "Food & Drink"
   },
   {
@@ -826,7 +826,7 @@
     "location": "Frankmouth, Netherlands Antilles",
     "description": "See the latest collections on the runway by top designers.",
     "image": "https://via.placeholder.com/350x200",
-    "price": "\u00a333",
+    "price": 33,
     "category": "Fashion"
   },
   {
@@ -836,7 +836,7 @@
     "location": "East John, Uganda",
     "description": "Indulge in premium wine selections with expert sommeliers.",
     "image": "https://via.placeholder.com/350x200",
-    "price": "\u00a3Free",
+    "price": 0,
     "category": "Food & Drink"
   },
   {
@@ -846,7 +846,7 @@
     "location": "Hillstad, Nauru",
     "description": "Explore the latest breakthroughs in technology with industry leaders.",
     "image": "https://via.placeholder.com/350x200",
-    "price": "\u00a374",
+    "price": 74,
     "category": "Technology"
   },
   {
@@ -856,7 +856,7 @@
     "location": "Port Amandatown, Gambia",
     "description": "Experience the world of extreme sports and its athletes.",
     "image": "https://via.placeholder.com/350x200",
-    "price": "\u00a3Free",
+    "price": 0,
     "category": "Sports"
   },
   {
@@ -866,7 +866,7 @@
     "location": "South Samanthaton, Russian Federation",
     "description": "Discover cutting-edge streetwear brands and trends.",
     "image": "https://via.placeholder.com/350x200",
-    "price": "\u00a339",
+    "price": 39,
     "category": "Fashion"
   },
   {
@@ -876,7 +876,7 @@
     "location": "East Margaret, Poland",
     "description": "Dive into the world of artificial intelligence and machine learning.",
     "image": "https://via.placeholder.com/350x200",
-    "price": "\u00a374",
+    "price": 74,
     "category": "Technology"
   },
   {
@@ -886,7 +886,7 @@
     "location": "West Kim, French Polynesia",
     "description": "Experience electrifying electronic music performances.",
     "image": "https://via.placeholder.com/350x200",
-    "price": "\u00a379",
+    "price": 79,
     "category": "Music"
   },
   {
@@ -896,7 +896,7 @@
     "location": "Cindyton, Moldova",
     "description": "A glamorous evening featuring haute couture designs.",
     "image": "https://via.placeholder.com/350x200",
-    "price": "\u00a3Free",
+    "price": 0,
     "category": "Fashion"
   },
   {
@@ -906,7 +906,7 @@
     "location": "Gibsonchester, Greece",
     "description": "See the latest collections on the runway by top designers.",
     "image": "https://via.placeholder.com/350x200",
-    "price": "\u00a331",
+    "price": 31,
     "category": "Fashion"
   },
   {
@@ -916,7 +916,7 @@
     "location": "East Kaitlynview, United Arab Emirates",
     "description": "A showcase of modern masterpieces from leading contemporary artists.",
     "image": "https://via.placeholder.com/350x200",
-    "price": "\u00a3Free",
+    "price": 0,
     "category": "Art & Design"
   },
   {
@@ -926,7 +926,7 @@
     "location": "Yvonnefurt, Pitcairn Islands",
     "description": "Indulge in premium wine selections with expert sommeliers.",
     "image": "https://via.placeholder.com/350x200",
-    "price": "\u00a340",
+    "price": 40,
     "category": "Food & Drink"
   },
   {
@@ -936,7 +936,7 @@
     "location": "East Erinstad, Saint Barthelemy",
     "description": "Celebrate art and culture in a vibrant, immersive festival.",
     "image": "https://via.placeholder.com/350x200",
-    "price": "\u00a3Free",
+    "price": 0,
     "category": "Art & Design"
   },
   {
@@ -946,7 +946,7 @@
     "location": "Duketon, Angola",
     "description": "Learn about the newest challenges and solutions in cybersecurity.",
     "image": "https://via.placeholder.com/350x200",
-    "price": "\u00a3Free",
+    "price": 0,
     "category": "Technology"
   },
   {
@@ -956,7 +956,7 @@
     "location": "South Hannahville, Qatar",
     "description": "Celebrate art and culture in a vibrant, immersive festival.",
     "image": "https://via.placeholder.com/350x200",
-    "price": "\u00a376",
+    "price": 76,
     "category": "Art & Design"
   },
   {
@@ -966,7 +966,7 @@
     "location": "New Randy, Antigua and Barbuda",
     "description": "Celebrate eco-friendly and sustainable fashion choices.",
     "image": "https://via.placeholder.com/350x200",
-    "price": "\u00a3Free",
+    "price": 0,
     "category": "Fashion"
   },
   {
@@ -976,7 +976,7 @@
     "location": "Tracyside, Mayotte",
     "description": "An evening filled with classical music compositions.",
     "image": "https://via.placeholder.com/350x200",
-    "price": "\u00a3Free",
+    "price": 0,
     "category": "Music"
   },
   {
@@ -986,7 +986,7 @@
     "location": "Woodsburgh, Finland",
     "description": "Explore delicious vegan options from diverse vendors.",
     "image": "https://via.placeholder.com/350x200",
-    "price": "\u00a3Free",
+    "price": 0,
     "category": "Food & Drink"
   },
   {
@@ -996,7 +996,7 @@
     "location": "Drewside, Kazakhstan",
     "description": "Understand the role of blockchain in transforming industries.",
     "image": "https://via.placeholder.com/350x200",
-    "price": "\u00a3Free",
+    "price": 0,
     "category": "Technology"
   }
 ]
