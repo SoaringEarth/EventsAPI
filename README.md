@@ -22,12 +22,17 @@ This API contains a list of 100 event objects, each with unique details, structu
 This format helps maintain consistency and relevance across events, making it suitable for use in an events database or similar application.
 
 ## /mockWeather.json
-The mockWeather.json file contains weather information for various cities. For each city, the data includes:
 
-Temperature: The current temperature in Celsius.
-Description: A brief description of the weather (e.g., "Clear sky", "Rain").
-Icon: A code representing the weather condition.
-How to Use the Data
+This API contains a list of city weather objects, each with detailed weather information, structured as follows:
+
+- **City**: The name of the city where the weather data is applicable.
+- **Country**: The name of the country where the city is located.
+- **WeatherData**: A nested object containing specific weather information:
+- **Temperature**: A floating-point number representing the current temperature in Celsius (e.g., 23.5).
+- **Description**: A brief description of the current weather conditions (e.g., "Clear sky", "Cloudy").
+- **Icon**: A string representing the weather condition code, following the OpenWeather icon format (e.g., "01d", "03d").
+
+### How to Use the Data
 Each city's weather data includes an icon code that follows the OpenWeather standards. You can use this icon code to display weather icons by constructing a URL like this:
 ```
 https://openweathermap.org/img/wn/{icon_code}@2x.png
