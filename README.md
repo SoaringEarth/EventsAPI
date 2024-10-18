@@ -1,7 +1,7 @@
 # APIs
 
 
-/mockEvents.json
+## /mockEvents.json
 This API contains a list of 100 event objects, each with unique details, structured as follows:
 
 - **ID**: A unique identifier for each event.
@@ -21,7 +21,7 @@ This API contains a list of 100 event objects, each with unique details, structu
 
 This format helps maintain consistency and relevance across events, making it suitable for use in an events database or similar application.
 
-/mockWeather.json
+## /mockWeather.json
 The mockWeather.json file contains weather information for various cities. For each city, the data includes:
 
 Temperature: The current temperature in Celsius.
