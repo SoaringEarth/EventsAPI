@@ -1,0 +1,173 @@
+[
+    {
+        "city": "Ankara",
+        "country": "Turkey",
+        "weatherData": {
+            "temperature": 5.6,
+            "description": "Broken clouds",
+            "icon": "04d"
+        }
+    },
+    {
+        "city": "Madrid",
+        "country": "Spain",
+        "weatherData": {
+            "temperature": -3.7,
+            "description": "Mist",
+            "icon": "50d"
+        }
+    },
+    {
+        "city": "Moscow",
+        "country": "Russia",
+        "weatherData": {
+            "temperature": -3.1,
+            "description": "Shower rain",
+            "icon": "09d"
+        }
+    },
+    {
+        "city": "Ottawa",
+        "country": "Canada",
+        "weatherData": {
+            "temperature": 21.6,
+            "description": "Clear sky",
+            "icon": "01d"
+        }
+    },
+    {
+        "city": "Bras\u00edlia",
+        "country": "Brazil",
+        "weatherData": {
+            "temperature": 32.1,
+            "description": "Few clouds",
+            "icon": "02d"
+        }
+    },
+    {
+        "city": "Beijing",
+        "country": "China",
+        "weatherData": {
+            "temperature": 36.6,
+            "description": "Rain",
+            "icon": "10d"
+        }
+    },
+    {
+        "city": "Seoul",
+        "country": "South Korea",
+        "weatherData": {
+            "temperature": -1.4,
+            "description": "Shower rain",
+            "icon": "09d"
+        }
+    },
+    {
+        "city": "Berlin",
+        "country": "Germany",
+        "weatherData": {
+            "temperature": 10.7,
+            "description": "Thunderstorm",
+            "icon": "11d"
+        }
+    },
+    {
+        "city": "Paris",
+        "country": "France",
+        "weatherData": {
+            "temperature": 19.0,
+            "description": "Snow",
+            "icon": "13d"
+        }
+    },
+    {
+        "city": "New Delhi",
+        "country": "India",
+        "weatherData": {
+            "temperature": -1.3,
+            "description": "Clear sky",
+            "icon": "01d"
+        }
+    },
+    {
+        "city": "Rome",
+        "country": "Italy",
+        "weatherData": {
+            "temperature": 32.4,
+            "description": "Mist",
+            "icon": "50d"
+        }
+    },
+    {
+        "city": "Tokyo",
+        "country": "Japan",
+        "weatherData": {
+            "temperature": 14.1,
+            "description": "Shower rain",
+            "icon": "09d"
+        }
+    },
+    {
+        "city": "Buenos Aires",
+        "country": "Argentina",
+        "weatherData": {
+            "temperature": 3.1,
+            "description": "Rain",
+            "icon": "10d"
+        }
+    },
+    {
+        "city": "Mexico City",
+        "country": "Mexico",
+        "weatherData": {
+            "temperature": 8.4,
+            "description": "Snow",
+            "icon": "13d"
+        }
+    },
+    {
+        "city": "Canberra",
+        "country": "Australia",
+        "weatherData": {
+            "temperature": 22.6,
+            "description": "Broken clouds",
+            "icon": "04d"
+        }
+    },
+    {
+        "city": "Abuja",
+        "country": "Nigeria",
+        "weatherData": {
+            "temperature": 7.6,
+            "description": "Mist",
+            "icon": "50d"
+        }
+    },
+    {
+        "city": "Washington, D.C.",
+        "country": "United States",
+        "weatherData": {
+            "temperature": 7.0,
+            "description": "Thunderstorm",
+            "icon": "11d"
+        }
+    },
+    {
+        "city": "Cairo",
+        "country": "Egypt",
+        "weatherData": {
+            "temperature": -6.6,
+            "description": "Scattered clouds",
+            "icon": "03d"
+        }
+    },
+    {
+        "city": "Riyadh",
+        "country": "Saudi Arabia",
+        "weatherData": {
+            "temperature": 23.4,
+            "description": "Mist",
+            "icon": "50d"
+        }
+    }
+]
