@@ -9,6 +9,7 @@ This API contains a list of 100 event objects, each with unique details, structu
 - **Time**: Date and time of the event in UTC format, ensuring no past events.
 - **Location**: A city and country location for the event.
 - **Description**: A brief, category-specific description of the event, using simple language.
+- **LongDescription** A longer version of the description to replace any _Lorem Ipsum_ text.
 - **Image**: A placeholder URL (`https://via.placeholder.com/350x200`) used for all events.
 - **Price**: A randomly assigned price (e.g., £10, £50) or marked as "Free."
 - **Category**: Each event is categorized under one of six themes:
