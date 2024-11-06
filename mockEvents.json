@@ -5,6 +5,7 @@
     "time": "2026-06-14T21:16:40Z",
     "location": "Ankara, Turkey",
     "description": "Stay informed on new threats and cybersecurity best practices.",
+    "longDescription": "Join industry experts and professionals at the Cybersecurity Symposium to stay informed on the latest threats and best practices in cybersecurity. This event will feature keynote speeches, panel discussions, and hands-on workshops.",
     "image": "https://via.placeholder.com/350x200",
     "price": 30,
     "category": "Technology"
@@ -15,6 +16,7 @@
     "time": "2025-09-08T14:50:40Z",
     "location": "Madrid, Spain",
     "description": "Understand the transformative potential of blockchain technology.",
+    "longDescription": "The Blockchain Conference in Madrid will bring together thought leaders and innovators to discuss the transformative potential of blockchain technology. Attendees will gain insights into the latest developments and applications of blockchain across various industries.",
     "image": "https://via.placeholder.com/350x200",
     "price": 30,
     "category": "Technology"
@@ -25,6 +27,7 @@
     "time": "2025-05-16T03:11:40Z",
     "location": "Moscow, Russia",
     "description": "Explore contemporary works of art from emerging artists.",
+    "longDescription": "The Modern Art Exhibition in Moscow will showcase contemporary works of art from emerging artists around the world. Visitors will have the opportunity to explore a diverse range of artistic expressions and engage with the artists.",
     "image": "https://via.placeholder.com/350x200",
     "price": 20,
     "category": "Art & Design"
@@ -35,6 +38,7 @@
     "time": "2025-07-31T04:40:40Z",
     "location": "Ottawa, Canada",
     "description": "Witness the latest collections from top designers on the runway.",
+    "longDescription": "The Runway Fashion Show in Ottawa will feature the latest collections from top designers. Attendees will have the chance to see cutting-edge fashion trends and witness the creativity of renowned fashion houses.",
     "image": "https://via.placeholder.com/350x200",
     "price": 0,
     "category": "Fashion"
@@ -43,18 +47,20 @@
     "id": 5,
     "title": "Rock Concert",
     "time": "2024-10-20T10:42:40Z",
-    "location": "Bras\u00edlia, Brazil",
+    "location": "Brasília, Brazil",
     "description": "Rock out with famous bands from around the world.",
+    "longDescription": "Join us for an unforgettable Rock Concert in Brasília, featuring famous bands from around the world. This high-energy event will have you rocking out to your favorite tunes and enjoying an electrifying atmosphere.",
     "image": "https://via.placeholder.com/350x200",
     "price": 20,
     "category": "Music"
   },
   {
     "id": 6,
-    "title": "Modern Art Exhibition",
+    "title": "Classical Art Exhibition",
     "time": "2026-09-28T01:23:40Z",
     "location": "Ottawa, Canada",
-    "description": "Explore contemporary works of art from emerging artists.",
+    "description": "Discover timeless classical art pieces from renowned artists.",
+    "longDescription": "The Classical Art Exhibition in Ottawa will feature timeless art pieces from renowned artists. Visitors will have the opportunity to appreciate the beauty and craftsmanship of classical art in a serene and inspiring setting.",
     "image": "https://via.placeholder.com/350x200",
     "price": 50,
     "category": "Art & Design"
@@ -63,8 +69,9 @@
     "id": 7,
     "title": "Outdoor Adventure Meet",
     "time": "2026-06-28T03:55:40Z",
-    "location": "Bras\u00edlia, Brazil",
+    "location": "Brasília, Brazil",
     "description": "Join outdoor enthusiasts for thrilling activities.",
+    "longDescription": "The Outdoor Adventure Meet in Brasília is the perfect event for outdoor enthusiasts. Participants will engage in thrilling activities such as hiking, rock climbing, and kayaking, all while enjoying the natural beauty of the region.",
     "image": "https://via.placeholder.com/350x200",
     "price": 20,
     "category": "Sports"
@@ -75,6 +82,7 @@
     "time": "2024-11-06T09:13:40Z",
     "location": "Beijing, China",
     "description": "Admire a collection of stunning sculptures from renowned artists.",
+    "longDescription": "The Sculpture Showcase in Beijing will feature a collection of stunning sculptures from renowned artists. Visitors will have the opportunity to admire the intricate details and artistic expressions of these magnificent works.",
     "image": "https://via.placeholder.com/350x200",
     "price": 0,
     "category": "Art & Design"
@@ -85,6 +93,7 @@
     "time": "2026-01-19T17:09:40Z",
     "location": "Moscow, Russia",
     "description": "Learn photography techniques from top professionals.",
+    "longDescription": "The Photography Masterclass in Moscow is a must-attend event for photography enthusiasts. Learn advanced techniques from top professionals and improve your skills in capturing stunning images.",
     "image": "https://via.placeholder.com/350x200",
     "price": 20,
     "category": "Art & Design"
@@ -95,6 +104,7 @@
     "time": "2026-07-31T13:06:40Z",
     "location": "Ankara, Turkey",
     "description": "Push your limits in this exciting marathon event.",
+    "longDescription": "The Marathon Challenge in Ankara is an exciting event for runners of all levels. Push your limits and test your endurance as you race through the scenic routes of Ankara. Whether you're a seasoned marathoner or a first-time participant, this event promises a rewarding experience.",
     "image": "https://via.placeholder.com/350x200",
     "price": 0,
     "category": "Sports"
@@ -105,6 +115,7 @@
     "time": "2026-09-10T14:31:40Z",
     "location": "Seoul, South Korea",
     "description": "Discover cutting-edge streetwear brands and trends.",
+    "longDescription": "The Streetwear Expo in Seoul is the ultimate event for streetwear enthusiasts. Discover cutting-edge brands and trends, and get inspired by the latest in urban fashion. This expo will feature exclusive collections, live performances, and interactive workshops.",
     "image": "https://via.placeholder.com/350x200",
     "price": 30,
     "category": "Fashion"
@@ -115,6 +126,7 @@
     "time": "2025-08-10T14:56:40Z",
     "location": "Berlin, Germany",
     "description": "A glamorous evening showcasing haute couture designs.",
+    "longDescription": "The Haute Couture Gala in Berlin is a glamorous evening event showcasing the finest haute couture designs. Attendees will have the opportunity to witness exquisite fashion creations and enjoy a night of elegance and sophistication.",
     "image": "https://via.placeholder.com/350x200",
     "price": 30,
     "category": "Fashion"
@@ -125,878 +137,97 @@
     "time": "2025-08-02T12:07:40Z",
     "location": "Paris, France",
     "description": "Explore eco-friendly and sustainable fashion options.",
+    "longDescription": "The Sustainable Fashion Fair in Paris is dedicated to promoting eco-friendly and sustainable fashion options. Explore a wide range of sustainable brands and products, and learn about the latest trends in ethical fashion. This event will feature panel discussions, workshops, and a marketplace.",
     "image": "https://via.placeholder.com/350x200",
     "price": 0,
     "category": "Fashion"
   },
   {
     "id": 14,
-    "title": "Sustainable Fashion Fair",
+    "title": "Kilo Sale",
     "time": "2025-06-08T15:29:40Z",
     "location": "Berlin, Germany",
-    "description": "Explore eco-friendly and sustainable fashion options.",
+    "description": "Find great deals on fashion items sold by weight.",
+    "longDescription": "The Kilo Sale in Berlin offers a unique shopping experience where fashion items are sold by weight. Find great deals on a variety of clothing and accessories, and enjoy the thrill of discovering hidden gems at bargain prices.",
     "image": "https://via.placeholder.com/350x200",
     "price": 20,
     "category": "Fashion"
   },
   {
     "id": 15,
-    "title": "Cybersecurity Symposium",
+    "title": "Cloud Computing Conference",
     "time": "2025-12-14T17:46:40Z",
     "location": "Seoul, South Korea",
-    "description": "Stay informed on new threats and cybersecurity best practices.",
+    "description": "Learn about the latest advancements in cloud computing.",
+    "longDescription": "The Cloud Computing Conference in Seoul will bring together industry leaders and experts to discuss the latest advancements in cloud computing. Attendees will gain insights into cutting-edge technologies, best practices, and future trends in the cloud computing landscape.",
     "image": "https://via.placeholder.com/350x200",
     "price": 50,
     "category": "Technology"
   },
   {
     "id": 16,
-    "title": "Haute Couture Gala",
+    "title": "A Night at the Circus",
     "time": "2024-11-03T01:27:40Z",
     "location": "Moscow, Russia",
-    "description": "A glamorous evening showcasing haute couture designs.",
+    "description": "Enjoy a magical evening filled with circus performances.",
+    "longDescription": "A Night at the Circus in Moscow promises a magical evening filled with captivating performances. Enjoy a variety of acts including acrobatics, juggling, and clowning, all set in a whimsical and enchanting atmosphere.",
     "image": "https://via.placeholder.com/350x200",
     "price": 20,
-    "category": "Fashion"
+    "category": "Entertainment"
   },
   {
     "id": 17,
-    "title": "Classical Music Night",
+    "title": "Tea Tour of Delhi",
     "time": "2025-02-19T08:57:40Z",
     "location": "New Delhi, India",
-    "description": "An evening filled with timeless classical music compositions.",
+    "description": "Experience the rich flavors and history of Delhi's tea culture.",
+    "longDescription": "The Tea Tour of Delhi offers a unique opportunity to experience the rich flavors and history of Delhi's tea culture. Visit historic tea houses, learn about the art of tea making, and sample a variety of teas from different regions.",
     "image": "https://via.placeholder.com/350x200",
     "price": 50,
-    "category": "Music"
+    "category": "Food & Drink"
   },
   {
     "id": 18,
-    "title": "AI Innovations Forum",
+    "title": "Old Town Walk",
     "time": "2026-05-22T03:18:40Z",
     "location": "Beijing, China",
-    "description": "Discover the latest advancements in artificial intelligence.",
+    "description": "Explore the historic streets and landmarks of old Beijing.",
+    "longDescription": "The Old Town Walk in Beijing is a guided tour that takes you through the historic streets and landmarks of old Beijing. Learn about the city's rich history and cultural heritage as you explore its ancient architecture and hidden gems.",
     "image": "https://via.placeholder.com/350x200",
     "price": 20,
-    "category": "Technology"
+    "category": "Tourism"
   },
   {
     "id": 19,
-    "title": "Outdoor Adventure Meet",
+    "title": "Climbing Wall",
     "time": "2024-12-25T15:43:40Z",
     "location": "Seoul, South Korea",
-    "description": "Join outdoor enthusiasts for thrilling activities.",
+    "description": "Challenge yourself on a variety of climbing walls.",
+    "longDescription": "The Climbing Wall event in Seoul offers a thrilling experience for climbing enthusiasts. Challenge yourself on a variety of climbing walls, each designed to test your skills and endurance. Whether you're a beginner or an experienced climber, this event has something for everyone.",
     "image": "https://via.placeholder.com/350x200",
     "price": 20,
     "category": "Sports"
   },
   {
     "id": 20,
-    "title": "Classical Music Night",
+    "title": "Red Bull Music Festival",
     "time": "2026-08-04T08:48:40Z",
     "location": "Ankara, Turkey",
-    "description": "An evening filled with timeless classical music compositions.",
+    "description": "Experience an electrifying music festival with top artists.",
+    "longDescription": "The Red Bull Music Festival in Ankara is an electrifying event featuring top artists from around the world. Enjoy live performances, DJ sets, and immersive experiences that celebrate the diversity and creativity of the music scene.",
     "image": "https://via.placeholder.com/350x200",
     "price": 20,
     "category": "Music"
   },
   {
     "id": 21,
-    "title": "Runway Fashion Show",
+    "title": "High Fashion - Brazil",
     "time": "2025-07-26T19:59:40Z",
-    "location": "Bras\u00edlia, Brazil",
+    "location": "Brasília, Brazil",
     "description": "Witness the latest collections from top designers on the runway.",
+    "longDescription": "High Fashion - Brazil in Brasília is a premier fashion event showcasing the latest collections from top designers. Witness the creativity and innovation of the fashion industry as models strut down the runway in stunning ensembles.",
     "image": "https://via.placeholder.com/350x200",
     "price": 0,
-    "category": "Fashion"
-  },
-  {
-    "id": 22,
-    "title": "Classical Music Night",
-    "time": "2025-05-20T18:41:40Z",
-    "location": "New Delhi, India",
-    "description": "An evening filled with timeless classical music compositions.",
-    "image": "https://via.placeholder.com/350x200",
-    "price": 0,
-    "category": "Music"
-  },
-  {
-    "id": 23,
-    "title": "Rock Concert",
-    "time": "2025-04-30T22:17:40Z",
-    "location": "Beijing, China",
-    "description": "Rock out with famous bands from around the world.",
-    "image": "https://via.placeholder.com/350x200",
-    "price": 30,
-    "category": "Music"
-  },
-  {
-    "id": 24,
-    "title": "Creative Workshop",
-    "time": "2025-05-14T23:30:40Z",
-    "location": "Canberra, Australia",
-    "description": "Participate in hands-on sessions to enhance your creative skills.",
-    "image": "https://via.placeholder.com/350x200",
-    "price": 20,
-    "category": "Art & Design"
-  },
-  {
-    "id": 25,
-    "title": "Championship Tournament",
-    "time": "2024-11-21T20:47:40Z",
-    "location": "Rome, Italy",
-    "description": "Watch top athletes compete for the championship title.",
-    "image": "https://via.placeholder.com/350x200",
-    "price": 30,
-    "category": "Sports"
-  },
-  {
-    "id": 26,
-    "title": "Championship Tournament",
-    "time": "2025-06-03T17:51:40Z",
-    "location": "Tokyo, Japan",
-    "description": "Watch top athletes compete for the championship title.",
-    "image": "https://via.placeholder.com/350x200",
-    "price": 50,
-    "category": "Sports"
-  },
-  {
-    "id": 27,
-    "title": "Sculpture Showcase",
-    "time": "2025-11-19T02:45:40Z",
-    "location": "Bras\u00edlia, Brazil",
-    "description": "Admire a collection of stunning sculptures from renowned artists.",
-    "image": "https://via.placeholder.com/350x200",
-    "price": 0,
-    "category": "Art & Design"
-  },
-  {
-    "id": 28,
-    "title": "International Cuisine Expo",
-    "time": "2024-12-12T23:26:40Z",
-    "location": "Ottawa, Canada",
-    "description": "Sample dishes from a variety of international cuisines.",
-    "image": "https://via.placeholder.com/350x200",
-    "price": 20,
-    "category": "Food & Drink"
-  },
-  {
-    "id": 29,
-    "title": "Future of Software",
-    "time": "2025-02-14T23:53:40Z",
-    "location": "Madrid, Spain",
-    "description": "Uncover trends shaping the next generation of software development.",
-    "image": "https://via.placeholder.com/350x200",
-    "price": 0,
-    "category": "Technology"
-  },
-  {
-    "id": 30,
-    "title": "Streetwear Expo",
-    "time": "2026-09-26T20:56:40Z",
-    "location": "Madrid, Spain",
-    "description": "Discover cutting-edge streetwear brands and trends.",
-    "image": "https://via.placeholder.com/350x200",
-    "price": 30,
-    "category": "Fashion"
-  },
-  {
-    "id": 31,
-    "title": "Photography Masterclass",
-    "time": "2026-06-01T02:21:40Z",
-    "location": "Tokyo, Japan",
-    "description": "Learn photography techniques from top professionals.",
-    "image": "https://via.placeholder.com/350x200",
-    "price": 50,
-    "category": "Art & Design"
-  },
-  {
-    "id": 32,
-    "title": "Jazz & Blues Festival",
-    "time": "2025-10-25T20:42:40Z",
-    "location": "Seoul, South Korea",
-    "description": "Enjoy live performances from jazz and blues legends.",
-    "image": "https://via.placeholder.com/350x200",
-    "price": 0,
-    "category": "Music"
-  },
-  {
-    "id": 33,
-    "title": "Wine Tasting Event",
-    "time": "2024-11-03T22:27:40Z",
-    "location": "Seoul, South Korea",
-    "description": "Indulge in premium wine selections with expert sommeliers.",
-    "image": "https://via.placeholder.com/350x200",
-    "price": 0,
-    "category": "Food & Drink"
-  },
-  {
-    "id": 34,
-    "title": "Future of Software",
-    "time": "2026-04-27T14:50:40Z",
-    "location": "Buenos Aires, Argentina",
-    "description": "Uncover trends shaping the next generation of software development.",
-    "image": "https://via.placeholder.com/350x200",
-    "price": 30,
-    "category": "Technology"
-  },
-  {
-    "id": 35,
-    "title": "Sustainable Fashion Fair",
-    "time": "2025-06-07T16:02:40Z",
-    "location": "Seoul, South Korea",
-    "description": "Explore eco-friendly and sustainable fashion options.",
-    "image": "https://via.placeholder.com/350x200",
-    "price": 20,
-    "category": "Fashion"
-  },
-  {
-    "id": 36,
-    "title": "Sustainable Fashion Fair",
-    "time": "2025-06-27T14:35:40Z",
-    "location": "Canberra, Australia",
-    "description": "Explore eco-friendly and sustainable fashion options.",
-    "image": "https://via.placeholder.com/350x200",
-    "price": 20,
-    "category": "Fashion"
-  },
-  {
-    "id": 37,
-    "title": "Classical Music Night",
-    "time": "2025-09-08T09:36:40Z",
-    "location": "Riyadh, Saudi Arabia",
-    "description": "An evening filled with timeless classical music compositions.",
-    "image": "https://via.placeholder.com/350x200",
-    "price": 30,
-    "category": "Music"
-  },
-  {
-    "id": 38,
-    "title": "Championship Tournament",
-    "time": "2024-12-14T19:46:40Z",
-    "location": "Paris, France",
-    "description": "Watch top athletes compete for the championship title.",
-    "image": "https://via.placeholder.com/350x200",
-    "price": 30,
-    "category": "Sports"
-  },
-  {
-    "id": 39,
-    "title": "Future of Software",
-    "time": "2025-03-25T02:58:40Z",
-    "location": "Cairo, Egypt",
-    "description": "Uncover trends shaping the next generation of software development.",
-    "image": "https://via.placeholder.com/350x200",
-    "price": 0,
-    "category": "Technology"
-  },
-  {
-    "id": 40,
-    "title": "Marathon Challenge",
-    "time": "2026-09-20T00:59:40Z",
-    "location": "Riyadh, Saudi Arabia",
-    "description": "Push your limits in this exciting marathon event.",
-    "image": "https://via.placeholder.com/350x200",
-    "price": 0,
-    "category": "Sports"
-  },
-  {
-    "id": 41,
-    "title": "Sustainable Fashion Fair",
-    "time": "2025-02-08T15:53:40Z",
-    "location": "Cairo, Egypt",
-    "description": "Explore eco-friendly and sustainable fashion options.",
-    "image": "https://via.placeholder.com/350x200",
-    "price": 30,
-    "category": "Fashion"
-  },
-  {
-    "id": 42,
-    "title": "Haute Couture Gala",
-    "time": "2026-04-17T19:22:40Z",
-    "location": "Paris, France",
-    "description": "A glamorous evening showcasing haute couture designs.",
-    "image": "https://via.placeholder.com/350x200",
-    "price": 50,
-    "category": "Fashion"
-  },
-  {
-    "id": 43,
-    "title": "Cybersecurity Symposium",
-    "time": "2026-06-21T21:03:40Z",
-    "location": "Bras\u00edlia, Brazil",
-    "description": "Stay informed on new threats and cybersecurity best practices.",
-    "image": "https://via.placeholder.com/350x200",
-    "price": 50,
-    "category": "Technology"
-  },
-  {
-    "id": 44,
-    "title": "Extreme Sports Expo",
-    "time": "2025-02-11T16:36:40Z",
-    "location": "Ankara, Turkey",
-    "description": "Get an adrenaline rush with extreme sports demonstrations.",
-    "image": "https://via.placeholder.com/350x200",
-    "price": 30,
-    "category": "Sports"
-  },
-  {
-    "id": 45,
-    "title": "Modern Art Exhibition",
-    "time": "2026-01-23T04:25:40Z",
-    "location": "New Delhi, India",
-    "description": "Explore contemporary works of art from emerging artists.",
-    "image": "https://via.placeholder.com/350x200",
-    "price": 0,
-    "category": "Art & Design"
-  },
-  {
-    "id": 46,
-    "title": "Championship Tournament",
-    "time": "2026-04-12T21:13:40Z",
-    "location": "Mexico City, Mexico",
-    "description": "Watch top athletes compete for the championship title.",
-    "image": "https://via.placeholder.com/350x200",
-    "price": 0,
-    "category": "Sports"
-  },
-  {
-    "id": 47,
-    "title": "Modern Art Exhibition",
-    "time": "2026-02-26T05:21:40Z",
-    "location": "New Delhi, India",
-    "description": "Explore contemporary works of art from emerging artists.",
-    "image": "https://via.placeholder.com/350x200",
-    "price": 0,
-    "category": "Art & Design"
-  },
-  {
-    "id": 48,
-    "title": "Outdoor Adventure Meet",
-    "time": "2025-08-23T16:20:40Z",
-    "location": "Moscow, Russia",
-    "description": "Join outdoor enthusiasts for thrilling activities.",
-    "image": "https://via.placeholder.com/350x200",
-    "price": 30,
-    "category": "Sports"
-  },
-  {
-    "id": 49,
-    "title": "International Cuisine Expo",
-    "time": "2025-01-25T06:38:40Z",
-    "location": "Canberra, Australia",
-    "description": "Sample dishes from a variety of international cuisines.",
-    "image": "https://via.placeholder.com/350x200",
-    "price": 30,
-    "category": "Food & Drink"
-  },
-  {
-    "id": 50,
-    "title": "Future of Software",
-    "time": "2026-09-20T17:43:40Z",
-    "location": "Riyadh, Saudi Arabia",
-    "description": "Uncover trends shaping the next generation of software development.",
-    "image": "https://via.placeholder.com/350x200",
-    "price": 50,
-    "category": "Technology"
-  },
-  {
-    "id": 51,
-    "title": "Electronic Music Fest",
-    "time": "2026-08-17T03:13:40Z",
-    "location": "New Delhi, India",
-    "description": "Experience electrifying performances by electronic music artists.",
-    "image": "https://via.placeholder.com/350x200",
-    "price": 50,
-    "category": "Music"
-  },
-  {
-    "id": 52,
-    "title": "Blockchain Conference",
-    "time": "2026-04-17T17:20:40Z",
-    "location": "Paris, France",
-    "description": "Understand the transformative potential of blockchain technology.",
-    "image": "https://via.placeholder.com/350x200",
-    "price": 30,
-    "category": "Technology"
-  },
-  {
-    "id": 53,
-    "title": "Creative Workshop",
-    "time": "2025-10-01T15:50:40Z",
-    "location": "Bras\u00edlia, Brazil",
-    "description": "Participate in hands-on sessions to enhance your creative skills.",
-    "image": "https://via.placeholder.com/350x200",
-    "price": 30,
-    "category": "Art & Design"
-  },
-  {
-    "id": 54,
-    "title": "Outdoor Adventure Meet",
-    "time": "2026-05-29T07:55:40Z",
-    "location": "Riyadh, Saudi Arabia",
-    "description": "Join outdoor enthusiasts for thrilling activities.",
-    "image": "https://via.placeholder.com/350x200",
-    "price": 20,
-    "category": "Sports"
-  },
-  {
-    "id": 55,
-    "title": "Haute Couture Gala",
-    "time": "2026-01-06T23:03:40Z",
-    "location": "Washington, D.C., United States",
-    "description": "A glamorous evening showcasing haute couture designs.",
-    "image": "https://via.placeholder.com/350x200",
-    "price": 50,
-    "category": "Fashion"
-  },
-  {
-    "id": 56,
-    "title": "Craft Beer Festival",
-    "time": "2026-10-04T10:00:40Z",
-    "location": "Rome, Italy",
-    "description": "Enjoy a selection of craft beers and local brews.",
-    "image": "https://via.placeholder.com/350x200",
-    "price": 20,
-    "category": "Food & Drink"
-  },
-  {
-    "id": 57,
-    "title": "Future of Software",
-    "time": "2025-02-25T07:32:40Z",
-    "location": "Madrid, Spain",
-    "description": "Uncover trends shaping the next generation of software development.",
-    "image": "https://via.placeholder.com/350x200",
-    "price": 20,
-    "category": "Technology"
-  },
-  {
-    "id": 58,
-    "title": "Wine Tasting Event",
-    "time": "2026-03-21T02:33:40Z",
-    "location": "Madrid, Spain",
-    "description": "Indulge in premium wine selections with expert sommeliers.",
-    "image": "https://via.placeholder.com/350x200",
-    "price": 30,
-    "category": "Food & Drink"
-  },
-  {
-    "id": 59,
-    "title": "Jazz & Blues Festival",
-    "time": "2025-10-21T10:20:40Z",
-    "location": "Mexico City, Mexico",
-    "description": "Enjoy live performances from jazz and blues legends.",
-    "image": "https://via.placeholder.com/350x200",
-    "price": 0,
-    "category": "Music"
-  },
-  {
-    "id": 60,
-    "title": "Championship Tournament",
-    "time": "2025-05-03T06:12:40Z",
-    "location": "Cairo, Egypt",
-    "description": "Watch top athletes compete for the championship title.",
-    "image": "https://via.placeholder.com/350x200",
-    "price": 20,
-    "category": "Sports"
-  },
-  {
-    "id": 61,
-    "title": "Cybersecurity Symposium",
-    "time": "2025-03-14T18:38:40Z",
-    "location": "Beijing, China",
-    "description": "Stay informed on new threats and cybersecurity best practices.",
-    "image": "https://via.placeholder.com/350x200",
-    "price": 30,
-    "category": "Technology"
-  },
-  {
-    "id": 62,
-    "title": "Championship Tournament",
-    "time": "2025-05-11T15:02:40Z",
-    "location": "Bras\u00edlia, Brazil",
-    "description": "Watch top athletes compete for the championship title.",
-    "image": "https://via.placeholder.com/350x200",
-    "price": 0,
-    "category": "Sports"
-  },
-  {
-    "id": 63,
-    "title": "Craft Beer Festival",
-    "time": "2025-02-03T08:03:40Z",
-    "location": "Beijing, China",
-    "description": "Enjoy a selection of craft beers and local brews.",
-    "image": "https://via.placeholder.com/350x200",
-    "price": 20,
-    "category": "Food & Drink"
-  },
-  {
-    "id": 64,
-    "title": "Extreme Sports Expo",
-    "time": "2025-03-21T17:20:40Z",
-    "location": "Berlin, Germany",
-    "description": "Get an adrenaline rush with extreme sports demonstrations.",
-    "image": "https://via.placeholder.com/350x200",
-    "price": 0,
-    "category": "Sports"
-  },
-  {
-    "id": 65,
-    "title": "Outdoor Adventure Meet",
-    "time": "2024-11-27T04:50:40Z",
-    "location": "Madrid, Spain",
-    "description": "Join outdoor enthusiasts for thrilling activities.",
-    "image": "https://via.placeholder.com/350x200",
-    "price": 50,
-    "category": "Sports"
-  },
-  {
-    "id": 66,
-    "title": "Outdoor Adventure Meet",
-    "time": "2026-05-11T06:16:40Z",
-    "location": "Canberra, Australia",
-    "description": "Join outdoor enthusiasts for thrilling activities.",
-    "image": "https://via.placeholder.com/350x200",
-    "price": 30,
-    "category": "Sports"
-  },
-  {
-    "id": 67,
-    "title": "Blockchain Conference",
-    "time": "2024-12-20T09:53:40Z",
-    "location": "Paris, France",
-    "description": "Understand the transformative potential of blockchain technology.",
-    "image": "https://via.placeholder.com/350x200",
-    "price": 0,
-    "category": "Technology"
-  },
-  {
-    "id": 68,
-    "title": "Runway Fashion Show",
-    "time": "2026-07-11T18:50:40Z",
-    "location": "Mexico City, Mexico",
-    "description": "Witness the latest collections from top designers on the runway.",
-    "image": "https://via.placeholder.com/350x200",
-    "price": 0,
-    "category": "Fashion"
-  },
-  {
-    "id": 69,
-    "title": "Cybersecurity Symposium",
-    "time": "2025-10-26T15:10:40Z",
-    "location": "Madrid, Spain",
-    "description": "Stay informed on new threats and cybersecurity best practices.",
-    "image": "https://via.placeholder.com/350x200",
-    "price": 20,
-    "category": "Technology"
-  },
-  {
-    "id": 70,
-    "title": "International Cuisine Expo",
-    "time": "2024-10-17T09:43:40Z",
-    "location": "Bras\u00edlia, Brazil",
-    "description": "Sample dishes from a variety of international cuisines.",
-    "image": "https://via.placeholder.com/350x200",
-    "price": 20,
-    "category": "Food & Drink"
-  },
-  {
-    "id": 71,
-    "title": "Marathon Challenge",
-    "time": "2025-10-05T04:56:40Z",
-    "location": "Buenos Aires, Argentina",
-    "description": "Push your limits in this exciting marathon event.",
-    "image": "https://via.placeholder.com/350x200",
-    "price": 0,
-    "category": "Sports"
-  },
-  {
-    "id": 72,
-    "title": "Haute Couture Gala",
-    "time": "2026-04-16T17:40:40Z",
-    "location": "Madrid, Spain",
-    "description": "A glamorous evening showcasing haute couture designs.",
-    "image": "https://via.placeholder.com/350x200",
-    "price": 0,
-    "category": "Fashion"
-  },
-  {
-    "id": 73,
-    "title": "Sculpture Showcase",
-    "time": "2026-08-31T00:45:40Z",
-    "location": "Mexico City, Mexico",
-    "description": "Admire a collection of stunning sculptures from renowned artists.",
-    "image": "https://via.placeholder.com/350x200",
-    "price": 20,
-    "category": "Art & Design"
-  },
-  {
-    "id": 74,
-    "title": "International Cuisine Expo",
-    "time": "2026-05-29T20:08:40Z",
-    "location": "Ottawa, Canada",
-    "description": "Sample dishes from a variety of international cuisines.",
-    "image": "https://via.placeholder.com/350x200",
-    "price": 0,
-    "category": "Food & Drink"
-  },
-  {
-    "id": 75,
-    "title": "Craft Beer Festival",
-    "time": "2026-03-13T00:52:40Z",
-    "location": "Abuja, Nigeria",
-    "description": "Enjoy a selection of craft beers and local brews.",
-    "image": "https://via.placeholder.com/350x200",
-    "price": 30,
-    "category": "Food & Drink"
-  },
-  {
-    "id": 76,
-    "title": "Creative Workshop",
-    "time": "2025-05-03T14:20:40Z",
-    "location": "Buenos Aires, Argentina",
-    "description": "Participate in hands-on sessions to enhance your creative skills.",
-    "image": "https://via.placeholder.com/350x200",
-    "price": 50,
-    "category": "Art & Design"
-  },
-  {
-    "id": 77,
-    "title": "Wine Tasting Event",
-    "time": "2026-04-03T11:54:40Z",
-    "location": "London, United Kingdom",
-    "description": "Indulge in premium wine selections with expert sommeliers.",
-    "image": "https://via.placeholder.com/350x200",
-    "price": 50,
-    "category": "Food & Drink"
-  },
-  {
-    "id": 78,
-    "title": "Runway Fashion Show",
-    "time": "2026-02-11T21:50:40Z",
-    "location": "Seoul, South Korea",
-    "description": "Witness the latest collections from top designers on the runway.",
-    "image": "https://via.placeholder.com/350x200",
-    "price": 0,
-    "category": "Fashion"
-  },
-  {
-    "id": 79,
-    "title": "Cybersecurity Symposium",
-    "time": "2025-05-31T22:26:40Z",
-    "location": "Abuja, Nigeria",
-    "description": "Stay informed on new threats and cybersecurity best practices.",
-    "image": "https://via.placeholder.com/350x200",
-    "price": 30,
-    "category": "Technology"
-  },
-  {
-    "id": 80,
-    "title": "Marathon Challenge",
-    "time": "2026-05-20T11:35:40Z",
-    "location": "Berlin, Germany",
-    "description": "Push your limits in this exciting marathon event.",
-    "image": "https://via.placeholder.com/350x200",
-    "price": 20,
-    "category": "Sports"
-  },
-  {
-    "id": 81,
-    "title": "Cybersecurity Symposium",
-    "time": "2025-05-20T00:53:40Z",
-    "location": "Paris, France",
-    "description": "Stay informed on new threats and cybersecurity best practices.",
-    "image": "https://via.placeholder.com/350x200",
-    "price": 20,
-    "category": "Technology"
-  },
-  {
-    "id": 82,
-    "title": "Photography Masterclass",
-    "time": "2024-12-07T12:49:40Z",
-    "location": "Beijing, China",
-    "description": "Learn photography techniques from top professionals.",
-    "image": "https://via.placeholder.com/350x200",
-    "price": 20,
-    "category": "Art & Design"
-  },
-  {
-    "id": 83,
-    "title": "Marathon Challenge",
-    "time": "2026-03-03T17:50:40Z",
-    "location": "Tokyo, Japan",
-    "description": "Push your limits in this exciting marathon event.",
-    "image": "https://via.placeholder.com/350x200",
-    "price": 30,
-    "category": "Sports"
-  },
-  {
-    "id": 84,
-    "title": "Rock Concert",
-    "time": "2026-08-10T19:38:40Z",
-    "location": "Beijing, China",
-    "description": "Rock out with famous bands from around the world.",
-    "image": "https://via.placeholder.com/350x200",
-    "price": 30,
-    "category": "Music"
-  },
-  {
-    "id": 85,
-    "title": "Championship Tournament",
-    "time": "2026-05-05T06:47:40Z",
-    "location": "Seoul, South Korea",
-    "description": "Watch top athletes compete for the championship title.",
-    "image": "https://via.placeholder.com/350x200",
-    "price": 30,
-    "category": "Sports"
-  },
-  {
-    "id": 86,
-    "title": "Outdoor Adventure Meet",
-    "time": "2026-02-16T11:01:40Z",
-    "location": "Tokyo, Japan",
-    "description": "Join outdoor enthusiasts for thrilling activities.",
-    "image": "https://via.placeholder.com/350x200",
-    "price": 20,
-    "category": "Sports"
-  },
-  {
-    "id": 87,
-    "title": "Championship Tournament",
-    "time": "2025-04-22T21:02:40Z",
-    "location": "Berlin, Germany",
-    "description": "Watch top athletes compete for the championship title.",
-    "image": "https://via.placeholder.com/350x200",
-    "price": 50,
-    "category": "Sports"
-  },
-  {
-    "id": 88,
-    "title": "Photography Masterclass",
-    "time": "2025-04-04T05:37:40Z",
-    "location": "Bras\u00edlia, Brazil",
-    "description": "Learn photography techniques from top professionals.",
-    "image": "https://via.placeholder.com/350x200",
-    "price": 30,
-    "category": "Art & Design"
-  },
-  {
-    "id": 89,
-    "title": "Championship Tournament",
-    "time": "2026-10-05T09:20:40Z",
-    "location": "Rome, Italy",
-    "description": "Watch top athletes compete for the championship title.",
-    "image": "https://via.placeholder.com/350x200",
-    "price": 20,
-    "category": "Sports"
-  },
-  {
-    "id": 90,
-    "title": "Modern Art Exhibition",
-    "time": "2026-04-21T11:36:40Z",
-    "location": "Tokyo, Japan",
-    "description": "Explore contemporary works of art from emerging artists.",
-    "image": "https://via.placeholder.com/350x200",
-    "price": 50,
-    "category": "Art & Design"
-  },
-  {
-    "id": 91,
-    "title": "International Cuisine Expo",
-    "time": "2026-03-26T19:09:40Z",
-    "location": "Bras\u00edlia, Brazil",
-    "description": "Sample dishes from a variety of international cuisines.",
-    "image": "https://via.placeholder.com/350x200",
-    "price": 50,
-    "category": "Food & Drink"
-  },
-  {
-    "id": 92,
-    "title": "Cybersecurity Symposium",
-    "time": "2025-08-04T18:21:40Z",
-    "location": "Seoul, South Korea",
-    "description": "Stay informed on new threats and cybersecurity best practices.",
-    "image": "https://via.placeholder.com/350x200",
-    "price": 0,
-    "category": "Technology"
-  },
-  {
-    "id": 93,
-    "title": "AI Innovations Forum",
-    "time": "2024-11-15T20:17:40Z",
-    "location": "Berlin, Germany",
-    "description": "Discover the latest advancements in artificial intelligence.",
-    "image": "https://via.placeholder.com/350x200",
-    "price": 20,
-    "category": "Technology"
-  },
-  {
-    "id": 94,
-    "title": "Classical Music Night",
-    "time": "2026-05-23T05:12:40Z",
-    "location": "Bras\u00edlia, Brazil",
-    "description": "An evening filled with timeless classical music compositions.",
-    "image": "https://via.placeholder.com/350x200",
-    "price": 0,
-    "category": "Music"
-  },
-  {
-    "id": 95,
-    "title": "Craft Beer Festival",
-    "time": "2026-10-08T13:53:40Z",
-    "location": "Paris, France",
-    "description": "Enjoy a selection of craft beers and local brews.",
-    "image": "https://via.placeholder.com/350x200",
-    "price": 0,
-    "category": "Food & Drink"
-  },
-  {
-    "id": 96,
-    "title": "Extreme Sports Expo",
-    "time": "2026-01-01T02:48:40Z",
-    "location": "Paris, France",
-    "description": "Get an adrenaline rush with extreme sports demonstrations.",
-    "image": "https://via.placeholder.com/350x200",
-    "price": 30,
-    "category": "Sports"
-  },
-  {
-    "id": 97,
-    "title": "Blockchain Conference",
-    "time": "2024-10-22T00:40:40Z",
-    "location": "Paris, France",
-    "description": "Understand the transformative potential of blockchain technology.",
-    "image": "https://via.placeholder.com/350x200",
-    "price": 20,
-    "category": "Technology"
-  },
-  {
-    "id": 98,
-    "title": "Wine Tasting Event",
-    "time": "2026-06-17T15:37:40Z",
-    "location": "Ottawa, Canada",
-    "description": "Indulge in premium wine selections with expert sommeliers.",
-    "image": "https://via.placeholder.com/350x200",
-    "price": 0,
-    "category": "Food & Drink"
-  },
-  {
-    "id": 99,
-    "title": "Gourmet Food Fest",
-    "time": "2026-07-08T21:02:40Z",
-    "location": "Ottawa, Canada",
-    "description": "Taste gourmet creations from top chefs around the world.",
-    "image": "https://via.placeholder.com/350x200",
-    "price": 50,
-    "category": "Food & Drink"
-  },
-  {
-    "id": 100,
-    "title": "Runway Fashion Show",
-    "time": "2026-05-11T16:12:40Z",
-    "location": "Moscow, Russia",
-    "description": "Witness the latest collections from top designers on the runway.",
-    "image": "https://via.placeholder.com/350x200",
-    "price": 20,
     "category": "Fashion"
   }
 ]
